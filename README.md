@@ -1,16 +1,34 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c8c9227f-4ed5-46be-b5d9-7087d278ed4d" alt="GitHub Cover" width="100%">
+</p>
 
-<!--
-**y0emad/y0emad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Hi there! 👋 I'm Youssef Emad (<a href="https://github.com/y0emad">@y0emad</a>)</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Full-Stack Developer | Problem Solver</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🌱 I’m currently scaling up my skills in Full-Stack Web Development and software architecture.
+- 💡 Passionate about writing clean, efficient code and solving complex algorithmic challenges.
+- 📫 How to reach me: [y.emad85@yahoo.com](mailto:y.emad85@yahoo.com)
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,react,nextjs,mongodb,postgres,docker,git,github,vscode" alt="Tech Stack" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=y0emad&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y0emad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
