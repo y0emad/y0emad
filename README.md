@@ -21,13 +21,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,react,nextjs,mongodb,postgres,docker,git,github,vscode" alt="Tech Stack" />
 </p>
-
----
-
-### 📊 GitHub Activity & Stats
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=y0emad&theme=tokyo-night&hide_border=true&radius=8" alt="GitHub Activity Graph" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y0emad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
