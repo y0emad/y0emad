@@ -24,11 +24,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=y0emad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=y0emad&theme=tokyo-night&hide_border=true&radius=8" alt="GitHub Activity Graph" width="100%" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=y0emad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
