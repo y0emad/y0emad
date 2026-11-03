@@ -21,3 +21,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,react,nextjs,mongodb,postgres,docker,git,github,vscode" alt="Tech Stack" />
 </p>
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y0emad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
