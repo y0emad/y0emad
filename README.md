@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c8c9227f-4ed5-46be-b5d9-7087d278ed4d" alt="GitHub Cover" width="100%">
+  <img src="https://github.com/user-attachments/assets/bdcd8499-36d2-4424-80a1-7ad2489be82f" alt="GitHub Cover" width="100%">
 </p>
 
 <h3 align="center">Hi there! 👋 I'm Yousef Emad (<a href="https://github.com/y0emad">@y0emad</a>)</h3>
